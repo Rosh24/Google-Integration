@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288468775316",
+    "project_id": "meta-altar-155214"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288468775316:android:cf6770bd3c0943bc",
+        "android_client_info": {
+          "package_name": "com.example.roshni.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288468775316-8f5ffdpp9vi6hsnbc0oric2kpch6l0j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roshni.googlelogin",
+            "certificate_hash": "E6915F72C6732F72514FDCA640F964BADE41D0BC"
+          }
+        },
+        {
+          "client_id": "288468775316-4v4d93aocli227flaj31qiimc4evpucb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP0tcHD--L_mdU3e4GrcIStzw-6LKHKnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
